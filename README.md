@@ -17,10 +17,10 @@
 
 ### Productivity
 
-- [Pages](itms-apps://apps.apple.com/us/app/pages/id409201541)
-- [Numbers](itms-apps://apps.apple.com/us/app/numbers/id409203825)
-- [Keynote](itms-apps://apps.apple.com/us/app/keynote/id409183694)
-- [Notability](itms-apps://apps.apple.com/app/notability/id360593530)
+- [Pages](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/pages/id409201541%3Fmt%3D12&ved=2ahUKEwjP1qW-voSGAxW4GjQIHZQaCkYQFnoECBoQAQ&usg=AOvVaw0FX1kUZJRldLdWCUXL9kYe)
+- [Numbers](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/numbers/id409203825%3Fmt%3D12&ved=2ahUKEwjnic_ZvoSGAxUvITQIHa_bDz8QFnoECBoQAQ&usg=AOvVaw07r9r4fzusq0eP8k9KXrHy)
+- [Keynote](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/keynote/id409183694%3Fmt%3D12&ved=2ahUKEwiu8PrdvoSGAxUUAzQIHSimBj0QFnoECCcQAQ&usg=AOvVaw3eFneBQXuKanmc4HZwypcH)
+- [Notability](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/notability-notes-pdf/id360593530&ved=2ahUKEwist9HlvoSGAxW2HjQIHZG7B2oQFnoECCgQAQ&usg=AOvVaw1OacmYWKIPGFvm27MDj_P7)
 
 ### Developer Tools
 
@@ -40,7 +40,7 @@ Find the dotfiles [here](https://github.com/suasuasuasuasua/dotfiles).
 #### IDEs
 
 - [Visual Studio Code](https://code.visualstudio.com)
-- [Xcode](itms-apps://apps.apple.com/us/app/xcode/id497799835)
+- [Xcode](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/xcode/id497799835%3Fmt%3D12&ved=2ahUKEwiclI7rvoSGAxXaweYEHRQzAjEQFnoECBIQAQ&usg=AOvVaw2fEvMbfRtGhB4SPHYB54NX)
 
 ### Entertainment
 
@@ -49,13 +49,13 @@ Find the dotfiles [here](https://github.com/suasuasuasuasua/dotfiles).
 
 ### Utilities
 
-- [Magnet](itms-apps://apps.apple.com/us/app/magnet/id441258766)
+- [Magnet](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/magnet/id441258766%3Fmt%3D12&ved=2ahUKEwiR157wvoSGAxUQJDQIHcboCnwQFnoECAYQAQ&usg=AOvVaw0a1L_8IMXKcmv-Cy497dqi)
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 - [shottr](https://shottr.cc)
 - [AdGuard](https://adguard.com/en/welcome.html)
 - [App Cleaner](https://freemacsoft.net/appcleaner/)
-- [Vimari](itms-apps://apps.apple.com/us/app/vimari/id1480933944)
-- [Hidden Bar](itms-apps://apps.apple.com/app/hidden-bar/id1452453066)
+- [Vimari](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/vimari/id1480933944%3Fmt%3D12&ved=2ahUKEwiY-Z_3voSGAxWpCDQIHaztDEUQFnoECBcQAQ&usg=AOvVaw3RuSwYs3AU6EtBrQd9mZiM)
+- [Hidden Bar](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/hidden-bar/id1452453066%3Fmt%3D12&ved=2ahUKEwis5OnzvoSGAxXUNjQIHQqfC60QFnoECBcQAQ&usg=AOvVaw2esgQNIQjggkG4SIHo52ay)
 
 ## Optional
 
