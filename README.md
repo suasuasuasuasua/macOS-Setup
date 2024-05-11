@@ -45,7 +45,7 @@ Find the dotfiles [here](https://github.com/suasuasuasuasua/dotfiles).
 ### Entertainment
 
 - [Spotify](https://www.spotify.com/de-en/download/mac/)
-- [Audible](itms-apps://apps.apple.com/app/Audible/id379693831)
+- [Audible](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/au/app/audible-audiobooks-podcasts/id379693831&ved=2ahUKEwiL_dCHwoSGAxWWCjQIHaNACWAQFnoECCIQAQ&usg=AOvVaw0omcO0CA7xSLn5k4XB0Unb)
 
 ### Utilities
 
