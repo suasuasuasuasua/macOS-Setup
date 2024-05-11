@@ -9,7 +9,7 @@
   - [Entertainment](#entertainment)
   - [Utilities](#utilities)
 - [Optional](#optional)
-  - [Metadata](#metadata)
+  - [Productivity](#productivity-1)
   - [Developer Tools](#developer-tools-1)
   - [Games](#games)
 
@@ -59,7 +59,7 @@ Find the dotfiles [here](https://github.com/suasuasuasuasua/dotfiles).
 
 ## Optional
 
-### Metadata
+### Productivity
 
 - [Stats](https://github.com/exelban/stats)
 - [Raycast](https://www.raycast.com)
