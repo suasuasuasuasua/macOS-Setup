@@ -31,14 +31,6 @@ Find the dotfiles [here](https://github.com/suasuasuasuasua/dotfiles).
 - [`brew`](https://brew.sh)
 - [iTerm2](https://iterm2.com)
 - [oh my `zsh`](https://ohmyz.sh)
-  - `plugins=(git zsh-vi-mode)`
-  ```sh
-    git clone https://github.com/jeffreytse/zsh-vi-mode \
-          $ZSH_CUSTOM/plugins/zsh-vi-mode
-
-    ZVM_LINE_INIT_MODE=$ZVM_MODE_INSERT
-    ZVM_VI_INSERT_ESCAPE_BINDKEY=jk
-  ```
 
 #### GUIs
 
