@@ -17,10 +17,10 @@
 
 ### Productivity
 
-- [Pages](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/pages/id409201541%3Fmt%3D12&ved=2ahUKEwjP1qW-voSGAxW4GjQIHZQaCkYQFnoECBoQAQ&usg=AOvVaw0FX1kUZJRldLdWCUXL9kYe)
-- [Numbers](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/numbers/id409203825%3Fmt%3D12&ved=2ahUKEwjnic_ZvoSGAxUvITQIHa_bDz8QFnoECBoQAQ&usg=AOvVaw07r9r4fzusq0eP8k9KXrHy)
-- [Keynote](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/keynote/id409183694%3Fmt%3D12&ved=2ahUKEwiu8PrdvoSGAxUUAzQIHSimBj0QFnoECCcQAQ&usg=AOvVaw3eFneBQXuKanmc4HZwypcH)
-- [Notability](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/notability-notes-pdf/id360593530&ved=2ahUKEwist9HlvoSGAxW2HjQIHZG7B2oQFnoECCgQAQ&usg=AOvVaw1OacmYWKIPGFvm27MDj_P7)
+- [Pages](https://apps.apple.com/us/app/pages/id409201541?mt=12)
+- [Numbers](https://apps.apple.com/us/app/numbers/id409203825?mt=12)
+- [Keynote](https://apps.apple.com/us/app/keynote/id409183694?mt=12)
+- [Notability](https://apps.apple.com/us/app/keynote/id409183694?mt=12)
 
 ### Developer Tools
 
@@ -40,22 +40,22 @@ Find the dotfiles [here](https://github.com/suasuasuasuasua/dotfiles).
 #### IDEs
 
 - [Visual Studio Code](https://code.visualstudio.com)
-- [Xcode](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/xcode/id497799835%3Fmt%3D12&ved=2ahUKEwiclI7rvoSGAxXaweYEHRQzAjEQFnoECBIQAQ&usg=AOvVaw2fEvMbfRtGhB4SPHYB54NX)
+- [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 
 ### Entertainment
 
 - [Spotify](https://www.spotify.com/de-en/download/mac/)
-- [Audible](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/au/app/audible-audiobooks-podcasts/id379693831&ved=2ahUKEwiL_dCHwoSGAxWWCjQIHaNACWAQFnoECCIQAQ&usg=AOvVaw0omcO0CA7xSLn5k4XB0Unb)
+- [Audible](https://apps.apple.com/us/app/audible-audio-entertainment/id379693831)
 
 ### Utilities
 
-- [Magnet](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/magnet/id441258766%3Fmt%3D12&ved=2ahUKEwiR157wvoSGAxUQJDQIHcboCnwQFnoECAYQAQ&usg=AOvVaw0a1L_8IMXKcmv-Cy497dqi)
+- [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 - [shottr](https://shottr.cc)
 - [AdGuard](https://adguard.com/en/welcome.html)
 - [App Cleaner](https://freemacsoft.net/appcleaner/)
-- [Vimari](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/vimari/id1480933944%3Fmt%3D12&ved=2ahUKEwiY-Z_3voSGAxWpCDQIHaztDEUQFnoECBcQAQ&usg=AOvVaw3RuSwYs3AU6EtBrQd9mZiM)
-- [Hidden Bar](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/hidden-bar/id1452453066%3Fmt%3D12&ved=2ahUKEwis5OnzvoSGAxXUNjQIHQqfC60QFnoECBcQAQ&usg=AOvVaw2esgQNIQjggkG4SIHo52ay)
+- [Vimari](https://apps.apple.com/us/app/vimari/id1480933944?mt=12)
+- [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12)
 
 ## Optional
 
