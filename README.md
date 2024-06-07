@@ -56,6 +56,7 @@ Find the dotfiles [here](https://github.com/suasuasuasuasua/dotfiles).
 - [App Cleaner](https://freemacsoft.net/appcleaner/)
 - [Vimari](https://apps.apple.com/us/app/vimari/id1480933944?mt=12)
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12)
+- [IINA](https://iina.io)
 
 ## Optional
 
